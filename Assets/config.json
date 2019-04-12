@@ -1,0 +1,16 @@
+{
+    "projectName": "Jumper Neural Net",
+    "debugMode": true,
+    "nEnemies": 50,
+    "geneticAlgorithm": {
+        "nIndividuals": 60,
+        "nElite": 6,
+        "mutationPercentage": 0.2
+    },
+    "neuralNet": {
+        "nInputNeurons": 2,
+        "nHiddenNeurons": 1,
+        "nOutputNeurons": 1,
+        "nHiddenLayers": 1
+    }
+}
